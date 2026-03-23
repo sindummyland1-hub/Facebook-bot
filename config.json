@@ -6,13 +6,13 @@
     "allowInbox": true,
     "autoClean": false,
     "adminOnly": true,
-    "keyAdminOnly": "61579551575273",
+    "keyAdminOnly": "61581474855159",
     "commandDisabled": [],
     "eventDisabled": [],
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "YK TRICKS INDIA",
+    "BOTNAME": "GOD SIN",
     "PREFIX": "+",
     "OTHERBOT": [
         ""
@@ -26,7 +26,7 @@
         ""
     ],
     "ADMINBOT": [
-        "61579551575273",
+        "61581474855159",
         ""
     ],
     "OWNER": "Sìn Mendoza ",
