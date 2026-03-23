@@ -5,8 +5,8 @@
     "autoCreateDB": true,
     "allowInbox": true,
     "autoClean": false,
-    "adminOnly": false,
-    "keyAdminOnly": "",
+    "adminOnly": true,
+    "keyAdminOnly": "61579551575273",
     "commandDisabled": [],
     "eventDisabled": [],
     "EMAIL": "",
@@ -18,15 +18,15 @@
         ""
     ],
     "UNSENTVIP": [
-        "61581474855159",
+        "61579551575273",
         ""
     ],
     "GOD": [
-        "61581474855159",
+        "61579551575273",
         ""
     ],
     "ADMINBOT": [
-        "61579551575273",
+        "61581474855159",
         ""
     ],
     "OWNER": "AYUSH RAJPUT ",
