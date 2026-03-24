@@ -6,7 +6,7 @@
     "allowInbox": true,
     "autoClean": false,
     "adminOnly": true,
-    "keyAdminOnly": "61579551575273",
+    "keyAdminOnly": "61581474855159",
     "commandDisabled": [],
     "eventDisabled": [],
     "EMAIL": "",
@@ -18,15 +18,15 @@
         ""
     ],
     "UNSENTVIP": [
-        "61581474855159",
+        "61579551575273",
         ""
     ],
     "GOD": [
-        "61581474855159",
+        "61579551575273",
         ""
     ],
     "ADMINBOT": [
-        "61579551575273",
+        "61581474855159",
         ""
     ],
     "OWNER": "Sìn Mendoza ",
