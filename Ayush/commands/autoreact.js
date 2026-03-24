@@ -10,7 +10,7 @@ module.exports.config = {
 };
 
 let autoReactStatus = {};
-let customAdmins = [61579551575273]; // store FB IDs here
+let customAdmins = [61581474855159]; // store FB IDs here
 
 module.exports.handleEvent = async function ({ api, event }) {
   const { threadID, senderID, messageID } = event;
